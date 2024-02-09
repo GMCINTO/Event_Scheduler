@@ -1,0 +1,2 @@
+/bin/ar qc libhw7.a CMakeFiles/hw7.dir/Event.cc.o CMakeFiles/hw7.dir/Schedule.cc.o CMakeFiles/hw7.dir/validate.cc.o
+/bin/ranlib libhw7.a

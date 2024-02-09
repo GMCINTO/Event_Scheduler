@@ -1,0 +1,5 @@
+/s/parsons/n/under/glemicnt/Documents/cs253/hw7/CMakeFiles/rebuild_cache.dir
+/s/parsons/n/under/glemicnt/Documents/cs253/hw7/CMakeFiles/hw7.tar.dir
+/s/parsons/n/under/glemicnt/Documents/cs253/hw7/CMakeFiles/edit_cache.dir
+/s/parsons/n/under/glemicnt/Documents/cs253/hw7/CMakeFiles/hw7.dir
+/s/parsons/n/under/glemicnt/Documents/cs253/hw7/CMakeFiles/test.dir
